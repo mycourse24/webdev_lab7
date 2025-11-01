@@ -1,0 +1,76 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #734A12;
+  margin: 0;
+  background-position: center;
+  font-family: Arial, sans-serif;;
+  font-size: 16px;
+}
+h1 {
+  color: #87CEEB;
+  font-size: 45px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+ 
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #8E7618;
+  border: 2px solid #00FF00;
+  border-collapse: collapse;
+  padding: 10px;
+}
+th, td {
+  border: 1px solid #666;
+  padding: 10px;
+  text-align: center;
+}
+.main-header th {
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: bold;
+}
+.images td {
+  color: #FFFFFF;
+  height: 100px;
+}
+.planet-img {
+  width: 90px;
+  height: 90px;
+  border-radius: 10px;
+  padding: 5px;
+ 
+}
+
+.mercury{
+	height: 100px;
+	
+}
+
+.ds td {
+  color: #000000;
+}
+.op td {
+  color: #000000;
+}
+.sa td {
+  color: #000000;
+}
+.ld td {
+  color: #000000;
+}
+.mass td {
+  color: #000000;
+}
+.raduis td {
+  color: #000000;
+}
+.gravity td {
+  color: #000000;
+}
